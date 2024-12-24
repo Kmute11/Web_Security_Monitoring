@@ -1,0 +1,14 @@
+<p>
+                <strong>CVSS Score:</strong><br>
+                <ul>
+                    <li>Attack Vector (AV): Network (N)</li>
+                    <li>Attack Complexity (AC): Low (L)</li>
+                    <li>Privileges Required (PR): None (N)</li>
+                    <li>User Interaction (UI): None (N)</li>
+                    <li>Scope (S): Changed (C)</li>
+                    <li>Confidentiality Impact (C): High (H)</li>
+                    <li>Integrity Impact (I): High (H)</li>
+                    <li>Availability Impact (A): High (H)</li>
+                </ul>
+                <strong>Base Score:</strong> 9.0 (Critical)
+            </p>
