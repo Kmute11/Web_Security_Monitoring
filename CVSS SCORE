@@ -1,0 +1,11 @@
+<h1>CVSS Score: <h1>
+Attack Vector (AV): Network (N)
+Attack Complexity (AC): Low (L)
+Privileges Required (PR): None (N)
+User Interaction (UI): None (N)
+Scope (S): Unchanged (U)
+Confidentiality Impact (C): High (H)
+Integrity Impact (I): High (H)
+Availability Impact (A): High (H)
+Base Score: 9.8 (Critical
+          
