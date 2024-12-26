@@ -1,5 +1,8 @@
 # Web Security Monitoring: Payment Gateway Attack
 
+
+![Payment Gateway Attack](img/444.jpg)
+
 ## Overview
 Configured and implemented Elastic SIEM and Splunk to monitor security events and detect potential threats. Performed log analysis to identify vulnerabilities, including payment gateway traversal and UI functionality issues,using both platforms. Conducted real-time threat detection and response by setting up alerts for brute-force login attempts, unauthorized payment activities, and data breaches. Collaborated with the development team to address identified vulnerabilities, improving the overall security posture.
 
